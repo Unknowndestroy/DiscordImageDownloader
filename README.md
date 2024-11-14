@@ -14,7 +14,7 @@ An advanced script for downloading images from a Discord channel. This Python-ba
 Ensure you have the following before you start:
 
 - **Python 3.x**: Install Python in Termux or your preferred environment.
-- **Requests Library**: Install with the following command:   ```pip install requests    ``` 
+- **Requests Library**: Install with the following command:   ```pip install requests ``` 
 - **Root Access**: Necessary to enable full functionality on Termux.
 - **Python Requests Package**
 
