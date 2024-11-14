@@ -28,7 +28,7 @@ and just run the file.
 
 - **Clone the Repository:**
  ```
-git clone https://github.com/YourUsername/discord-image-downloader.git
+git clone https://github.com/Unknowndestroy/DiscordImageDownloader/
 cd discord-image-downloader
  ```
 
